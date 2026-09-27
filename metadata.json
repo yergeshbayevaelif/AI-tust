@@ -1,0 +1,6 @@
+{
+  "name": "AI Trust",
+  "description": "Сервис проверки достоверности информации и фактов в ответах ИИ: доказательства, источники и обнаружение галлюцинаций.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
